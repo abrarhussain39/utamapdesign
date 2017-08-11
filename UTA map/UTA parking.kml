@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>UTA parking.kml</name>
+	<Style id="sn_ylw-pushpin130">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin32">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin140">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin42">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin27">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin160">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin36">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin36">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin33">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin250">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin25">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin37">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin35">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7faaff</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Parking Lot 56</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10811410516091,32.72527748521739,0 -97.10873700324041,32.72527789861711,0 -97.10875354292499,32.72475624973286,0 -97.10815119591717,32.724737738096,0 -97.10811410516091,32.72527748521739,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 53</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10892193608899,32.7271956906125,0 -97.10896658432191,32.7271980674326,0 -97.10897177735187,32.72724741043113,0 -97.10934974447461,32.72723634823953,0 -97.10934916631531,32.72712318645142,0 -97.10986256234996,32.72707475858068,0 -97.10984702382493,32.72700133012916,0 -97.11007483476179,32.7270053743333,0 -97.11007206332891,32.72674391439902,0 -97.10970481275902,32.72627687095749,0 -97.1091186221866,32.7262411860326,0 -97.10912068491389,32.72581490995368,0 -97.10899123898457,32.72579760983537,0 -97.10892193608899,32.7271956906125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 46</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10771934398093,32.72724283354388,0 -97.10770871074597,32.72779881809062,0 -97.10779101698917,32.72778315032883,0 -97.10777817334436,32.72785893049252,0 -97.10835419244204,32.72762247999609,0 -97.10833947836252,32.72709984157523,0 -97.10790576433273,32.72705879547022,0 -97.10771934398093,32.72724283354388,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 48</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10724936913782,32.72690210673076,0 -97.10723041688975,32.72708580517392,0 -97.1075161147071,32.72708919636894,0 -97.10751872258169,32.727038212749,0 -97.10763252226766,32.72703389619864,0 -97.10764024457568,32.72690198567427,0 -97.10724936913782,32.72690210673076,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 55</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10703741804932,32.72776942115153,0 -97.10704162567315,32.72814617069822,0 -97.10713588197601,32.72816516486801,0 -97.1075424722402,32.72802884612836,0 -97.10760072031471,32.72801320924265,0 -97.10759899086355,32.72778020844982,0 -97.10703741804932,32.72776942115153,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot LCS</name>
+			<styleUrl>#msn_ylw-pushpin110</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10718441931593,32.72871107409986,0 -97.10726908362757,32.72880391652205,0 -97.1085879313592,32.72881294064856,0 -97.10862341411004,32.72794622210217,0 -97.10831751375014,32.72793427169066,0 -97.10720555050958,32.72843407654269,0 -97.10718441931593,32.72871107409986,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Park South</name>
+			<styleUrl>#msn_ylw-pushpin27</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10748668230623,32.73146213367318,0 -97.1074560162553,32.73152729146193,0 -97.10737495829913,32.73153180523292,0 -97.10738362769868,32.7319045790017,0 -97.10743857274731,32.73191399480997,0 -97.10743284523166,32.73194918734245,0 -97.10820398697452,32.73195994327263,0 -97.10821342230295,32.7318778020277,0 -97.1082894032907,32.73186566278164,0 -97.10830694012353,32.73146434289411,0 -97.10754148656361,32.73145855234137,0 -97.10748668230623,32.73146213367318,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 39</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10886076512938,32.73308675577216,0 -97.10918338823281,32.7330952725187,0 -97.10921419729017,32.73216019525933,0 -97.10887834709135,32.73214248457158,0 -97.10886076512938,32.73308675577216,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 38</name>
+			<styleUrl>#msn_ylw-pushpin15</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1091869577931,32.73310317931364,0 -97.10977663279057,32.7330957182436,0 -97.10977389510671,32.73243031310996,0 -97.10937592722328,32.73241476308387,0 -97.10938944120088,32.73215683042762,0 -97.10922386968356,32.7321625496596,0 -97.1091869577931,32.73310317931364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot F11</name>
+			<styleUrl>#msn_ylw-pushpin00</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10994031206107,32.73294126128364,0 -97.11092351039433,32.73296535605311,0 -97.11093724698749,32.73227996172192,0 -97.10999720144979,32.73222062900127,0 -97.10994031206107,32.73294126128364,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot F12</name>
+			<styleUrl>#msn_ylw-pushpin220</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11109123870304,32.73262569123433,0 -97.1110747517088,32.73357769972263,0 -97.11203750670174,32.73363143122771,0 -97.1120196032731,32.73266608617838,0 -97.11109123870304,32.73262569123433,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 50</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11126537716484,32.72495337084244,0 -97.11290463350801,32.72502621169552,0 -97.11284985785109,32.72263448331945,0 -97.1113170981041,32.72257197223202,0 -97.11126537716484,32.72495337084244,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 49</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11131768089618,32.72639396417828,0 -97.11131867357375,32.72640731871861,0 -97.11134570077705,32.72643086016796,0 -97.11137634359136,32.72644641446897,0 -97.11139602963392,32.72645951962579,0 -97.11143820064463,32.72647767448354,0 -97.11147625488771,32.72649056939228,0 -97.11151505884767,32.72650358110615,0 -97.11155170342737,32.72652484072115,0 -97.1115851865892,32.7265324490556,0 -97.1116050367863,32.72654571763778,0 -97.11163605917615,32.72656155219119,0 -97.11168429771978,32.72657704793781,0 -97.11169243612744,32.72658773765136,0 -97.11172655183651,32.72660885209523,0 -97.11176433635299,32.72662195466066,0 -97.11179920687123,32.72662988308479,0 -97.11184176555648,32.72663511499452,0 -97.11187699681274,32.72664311113211,0 -97.11192416836532,32.72665381662014,0 -97.11196293353578,32.72665369110997,0 -97.11201037674429,32.72666444976404,0 -97.11205377255517,32.7266698020067,0 -97.11209737212897,32.72667517963609,0 -97.11214893730798,32.72667782227511,0 -97.11218867855006,32.72667774713079,0 -97.11222758777775,32.72667752944326,0 -97.11226657795126,32.72667730013648,0 -97.11230604528183,32.72666335289048,0 -97.11233421846447,32.72666049753895,0 -97.11238298410122,32.72665758780367,0 -97.11241587510878,32.72666029163297,0 -97.11245700011263,32.72666018833076,0 -97.1125061741637,32.72667116495325,0 -97.11254317088793,32.72667942565642,0 -97.11258835289232,32.72668487112354,0 -97.11262528044291,32.72669314155038,0 -97.11267052578357,32.72669860022304,0 -97.11272532362041,32.72670138064702,0 -97.11275457683604,32.72669849350635,0 -97.11280166280605,32.7267041602254,0 -97.11290953715972,32.72670420108856,0 -97.11322195173911,32.72679672091866,0 -97.11431822671715,32.72689633919134,0 -97.114420970276,32.72525883040763,0 -97.11130387432019,32.72530357683183,0 -97.11131768089618,32.72639396417828,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 51</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11006643776139,32.72391893466512,0 -97.11012448596823,32.72395152685848,0 -97.11012984864267,32.72408259459164,0 -97.11017393602398,32.7241092369225,0 -97.11021505036109,32.72416449351743,0 -97.11062687769842,32.72413745817134,0 -97.11064885291739,32.72504069865215,0 -97.11104735522615,32.72502465284945,0 -97.1110238757193,32.72370644457568,0 -97.11104256193666,32.72257960418571,0 -97.11009514114352,32.72260553960558,0 -97.11006643776139,32.72391893466512,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 52</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10999119769681,32.72604014656888,0 -97.11099774192272,32.72610909806581,0 -97.11104278429883,32.72521028624353,0 -97.11003475816432,32.72516769014749,0 -97.10999119769681,32.72604014656888,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot F10</name>
+			<styleUrl>#msn_ylw-pushpin12</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11000118585339,32.72910119097411,0 -97.11091965355347,32.72914068621768,0 -97.11098912439987,32.72709482507694,0 -97.11003563776006,32.72729470725835,0 -97.11000118585339,32.72910119097411,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot CPW</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1089096996935,32.73002077003625,0 -97.10982466052224,32.73009314640978,0 -97.10989207495781,32.72928167877861,0 -97.10896242282423,32.72927725430429,0 -97.1089096996935,32.73002077003625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Maverick Parking garage</name>
+			<styleUrl>#msn_ylw-pushpin21</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11118215394161,32.72953089784365,0 -97.11122865373083,32.72953075130291,0 -97.11122861436444,32.72957990764856,0 -97.11184268308752,32.72959139471672,0 -97.11184165570596,32.7295730591596,0 -97.11190806563229,32.72958305182564,0 -97.1120178106126,32.72959111897295,0 -97.11201616603326,32.72953027927535,0 -97.11208730932448,32.72953230628523,0 -97.11207746230704,32.72926441577607,0 -97.11125142932173,32.72924361374209,0 -97.11124738440458,32.72929729936252,0 -97.11118016689154,32.72930014322058,0 -97.11118215394161,32.72953089784365,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot F9</name>
+			<styleUrl>#msn_ylw-pushpin29</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11482696803743,32.72893246649331,0 -97.11583944013054,32.72895711942,0 -97.11590843144916,32.72919717760394,0 -97.11628775048375,32.72922420912499,0 -97.11624328500636,32.7284920436132,0 -97.11486351523017,32.72847696510223,0 -97.11482696803743,32.72893246649331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 34</name>
+			<styleUrl>#msn_ylw-pushpin18</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1151472791931,32.73301840806299,0 -97.11539658706691,32.73302467754039,0 -97.11538306104967,32.73350427922949,0 -97.11528463513177,32.73354648474768,0 -97.11511469229994,32.73348608907747,0 -97.11512542516158,32.73349963112573,0 -97.11514097934952,32.73351631918036,0 -97.11514689730815,32.73352664372712,0 -97.11516245534632,32.73354330593656,0 -97.11517319495482,32.733556801296,0 -97.11518393557768,32.73357029803239,0 -97.11519413004081,32.73358022474905,0 -97.11521397875586,32.73359651683826,0 -97.11523327845292,32.7336091701635,0 -97.115242931384,32.73361550223455,0 -97.11526598764262,32.73362422115132,0 -97.11527993727097,32.73363016715429,0 -97.11529818529395,32.73363572589928,0 -97.11532128014612,32.73364445917299,0 -97.11533471439239,32.73364685336637,0 -97.11535353244123,32.73365598360223,0 -97.11537611921877,32.73366113781122,0 -97.11540301886697,32.73366587006851,0 -97.11541594430538,32.73366467497935,0 -97.11543803416819,32.73366624601067,0 -97.11545151319474,32.73366862537476,0 -97.11546985104961,32.73367418282964,0 -97.11548819861257,32.73367974337768,0 -97.11551130478748,32.73368828157628,0 -97.11552908123302,32.73369016991187,0 -97.11554736617298,32.73369558528063,0 -97.11556517024141,32.73369750365256,0 -97.11558839306764,32.73370621431417,0 -97.11561111811932,32.73371138015735,0 -97.11564357959696,32.73372289709247,0 -97.11567129339848,32.73373137571758,0 -97.11569029864785,32.73374059878834,0 -97.11570879920647,32.73374625646962,0 -97.11572671783324,32.73374824026682,0 -97.11575874566219,32.73375618743392,0 -97.11576797565378,32.73375897113378,0 -97.11578644178519,32.73376454047184,0 -97.11580930313637,32.73376974473132,0 -97.11583331027474,32.73378223461769,0 -97.11586223158454,32.73379793579507,0 -97.11587642364633,32.73380397556124,0 -97.11589067728878,32.73381007994846,0 -97.11590934660161,32.73381582619535,0 -97.11593247086985,32.73382124516182,0 -97.11595116559003,32.73382699154437,0 -97.11597422216268,32.73383230508502,0 -97.11599180196374,32.73383074565796,0 -97.11600993012678,32.7338328062699,0 -97.11603291347464,32.73383800799651,0 -97.1160509779516,32.7338399875771,0 -97.11607395625809,32.73384516686702,0 -97.11609750838029,32.73385399841583,0 -97.11611178899786,32.73386005790217,0 -97.11614036656546,32.73387218393683,0 -97.11615855011536,32.73387423609744,0 -97.11617285495578,32.73388030475799,0 -97.11620095370317,32.73388882516956,0 -97.11621524864337,32.73389487729611,0 -97.11624431811245,32.73391056138171,0 -97.11627712346153,32.7339220842945,0 -97.11629757603761,32.73264018797036,0 -97.11514561488069,32.73263699576525,0 -97.1151472791931,32.73301840806299,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot F8</name>
+			<styleUrl>#msn_ylw-pushpin41</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11655791448487,32.73074060423865,0 -97.11656027628824,32.73132590045813,0 -97.11713570757215,32.73131619676618,0 -97.11717913767451,32.73077230262355,0 -97.11655791448487,32.73074060423865,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot TW</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11763889231831,32.73041606916848,0 -97.11813764790878,32.73043756525997,0 -97.1181402433119,32.73018376483967,0 -97.11763176681558,32.73017643919141,0 -97.11763889231831,32.73041606916848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot TS</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11653512116109,32.72946639688701,0 -97.1165287254439,32.7298356577834,0 -97.11736354189777,32.72983959169108,0 -97.11736481438554,32.72951581489048,0 -97.11653512116109,32.72946639688701,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot T</name>
+			<styleUrl>#msn_ylw-pushpin22</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11652532451988,32.72983609774453,0 -97.1165200688646,32.73022485216696,0 -97.11762617853233,32.73020864815597,0 -97.11764596112514,32.7298231903268,0 -97.11652532451988,32.72983609774453,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 30</name>
+			<styleUrl>#msn_ylw-pushpin42</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11901033337091,32.73141960772682,0 -97.1204916679969,32.73140709429124,0 -97.12044137140087,32.7309442390228,0 -97.11902749928792,32.73092526465614,0 -97.11901033337091,32.73141960772682,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 36</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11385775085736,32.73423144886151,0 -97.11387029541683,32.73390220312952,0 -97.11297388708653,32.7338893124337,0 -97.1129369407917,32.73497898369389,0 -97.1134834482269,32.73494974653469,0 -97.11348049505686,32.73423318829234,0 -97.11385775085736,32.73423144886151,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot F15</name>
+			<styleUrl>#msn_ylw-pushpin10</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11293346259079,32.73550819103209,0 -97.11428968452503,32.73551909461976,0 -97.11428045451274,32.73505374912708,0 -97.11429210346626,32.73493943908924,0 -97.11405942996531,32.73491200041416,0 -97.11396526713092,32.73484158387764,0 -97.11358019166447,32.7348292273753,0 -97.113521793259,32.73500709866311,0 -97.11296468046056,32.73504473152833,0 -97.11293346259079,32.73550819103209,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 28</name>
+			<styleUrl>#msn_ylw-pushpin16</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12174160325905,32.73354754494229,0 -97.12177870013086,32.73357214346304,0 -97.12176561467705,32.73367701935744,0 -97.12212563927533,32.73367872334893,0 -97.12214416163043,32.73348575887492,0 -97.12185709502926,32.73347951025418,0 -97.12184088824702,32.73353250252024,0 -97.12175479926016,32.73349567598103,0 -97.12174160325905,32.73354754494229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 26</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12633805579286,32.72631633435086,0 -97.12623175075053,32.72778387349612,0 -97.1275038354721,32.72779719318358,0 -97.12752184346667,32.72631854032358,0 -97.12633805579286,32.72631633435086,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 27</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1246800142481,32.7293462012597,0 -97.12463984146058,32.72957207325664,0 -97.12413827643475,32.72959209984203,0 -97.12412323369476,32.72836598238761,0 -97.12384420598765,32.72835909851016,0 -97.12380900543732,32.73042789952951,0 -97.12418022844416,32.7304232200989,0 -97.12425529945858,32.73014359154359,0 -97.12453953162904,32.73015400367248,0 -97.12471146491107,32.73017003616769,0 -97.12472228463454,32.73012995091815,0 -97.12479580842171,32.73011833910898,0 -97.12477862635808,32.72988250287131,0 -97.12497095506906,32.72984263224586,0 -97.12498040878063,32.72939421799711,0 -97.12498149102017,32.72939017208524,0 -97.1246800142481,32.7293462012597,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 29</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12300287196669,32.72951965995161,0 -97.12229874968533,32.72953201342943,0 -97.12229192154709,32.73025860774424,0 -97.12301315083862,32.73023161660176,0 -97.12300287196669,32.72951965995161,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot 24</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12304887316806,32.73417966729775,0 -97.12310445863237,32.73417973040678,0 -97.12310338924735,32.73411418493346,0 -97.12305404584662,32.73410261346621,0 -97.12305162659564,32.73402583121735,0 -97.12298580344729,32.73402778839282,0 -97.1229887454452,32.7340765034369,0 -97.12290378540671,32.73408553496061,0 -97.12289830942291,32.73404395800814,0 -97.12283917296246,32.73401918676739,0 -97.12275530723265,32.73401016557097,0 -97.12247980647713,32.73401011531787,0 -97.1225114011517,32.73427168613839,0 -97.12297336273531,32.73424430974594,0 -97.12305598344244,32.73423110477812,0 -97.12304887316806,32.73417966729775,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot MR</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12098745656458,32.73126881647221,0 -97.12062377166915,32.73126188883478,0 -97.12060191131414,32.73236194684156,0 -97.1204842022523,32.73237853734607,0 -97.12038805995636,32.73242306921928,0 -97.1203893038572,32.73277103514724,0 -97.12047897307996,32.7327840469225,0 -97.1204822151212,32.73284995959323,0 -97.12115469886307,32.73284074951965,0 -97.12116473609089,32.73253569608143,0 -97.12110679183283,32.73244724940453,0 -97.12112836531715,32.73238481277088,0 -97.12123876188281,32.73233980416097,0 -97.12120311264313,32.73180209025185,0 -97.12101499997758,32.73175077532506,0 -97.12098745656458,32.73126881647221,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking lot TB</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11938585921408,32.7329144999059,0 -97.1191480508966,32.73288953856083,0 -97.11917269511568,32.7338412987399,0 -97.1195355434955,32.73385345415698,0 -97.11956207447771,32.73345635976327,0 -97.11941091875868,32.73336190604276,0 -97.11938585921408,32.7329144999059,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot F7</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11481091965962,32.73200756114858,0 -97.11476734731525,32.73261115277056,0 -97.11530295581716,32.73260278167542,0 -97.11529306970503,32.73203785351389,0 -97.11481091965962,32.73200756114858,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 14</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11397530414112,32.73312143425937,0 -97.11397833008329,32.73351243978924,0 -97.11420078108023,32.7335031209174,0 -97.11422036820279,32.73312038071825,0 -97.11397530414112,32.73312143425937,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Parking Lot 35</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1155378953186,32.73400964794672,0 -97.11518389832915,32.73401805731228,0 -97.11517308888965,32.73421335404649,0 -97.1158674809443,32.73424959310715,0 -97.11589236669317,32.734120813915,0 -97.1155378953186,32.73400964794672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

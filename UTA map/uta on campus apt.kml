@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>uta on campus apt.kml</name>
+	<StyleMap id="msn_ylw-pushpin38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin120">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>The heights on pecan</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1087161006935,32.72387369122192,0 -97.10792162798286,32.72385333016946,0 -97.1079101545179,32.72452624123745,0 -97.10872199072524,32.7245068292203,0 -97.1087161006935,32.72387369122192,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Maple Square</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11001111279487,32.73355352642709,0 -97.11033130884144,32.73355616247363,0 -97.11032508007139,32.73296758708313,0 -97.11003035916072,32.73296983950228,0 -97.11001111279487,32.73355352642709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Garden Club</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11048223822769,32.73354288982827,0 -97.11088836152732,32.73355016618979,0 -97.11090751353412,32.73310333469866,0 -97.11049249231697,32.73309969251754,0 -97.11048223822769,32.73354288982827,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Center Point apartment</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10663180401316,32.72815871092271,0 -97.1069934463813,32.72816876058662,0 -97.1069960085581,32.72796119935883,0 -97.10663520373116,32.72795143021765,0 -97.10663180401316,32.72815871092271,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cooper chase aprtment</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11521119371616,32.73309514100516,0 -97.11520024199841,32.73316847606071,0 -97.11487403268903,32.73315833235942,0 -97.1148938276652,32.73308128453581,0 -97.11475238736496,32.73306975543215,0 -97.11475377144119,32.73335956359532,0 -97.1148681832144,32.73335203870099,0 -97.11489037892531,32.73326642939322,0 -97.1151985183003,32.73326274064336,0 -97.11519832197483,32.73336809525793,0 -97.11532594546425,32.73336826278526,0 -97.11533456360439,32.73309000330669,0 -97.11521119371616,32.73309514100516,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Trinity house</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11655419284615,32.73044345976429,0 -97.11751006836614,32.73043625234222,0 -97.11750615321205,32.73032809767049,0 -97.11657770082748,32.7303172144422,0 -97.11655419284615,32.73044345976429,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run </name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12073550173191,32.73111578143448,0 -97.12118920680339,32.73111876239491,0 -97.12120479668016,32.73096268692996,0 -97.12075588955931,32.73095153177621,0 -97.12073550173191,32.73111578143448,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 1</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12135658742308,32.7313053031182,0 -97.12155823256506,32.73129889755315,0 -97.12158169416159,32.73092664425897,0 -97.12135787934599,32.73093495254874,0 -97.12135658742308,32.7313053031182,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 2</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12107160663867,32.73161776517308,0 -97.12154277778154,32.73163575191799,0 -97.12155337843089,32.73146194061412,0 -97.12110396758882,32.73146079988781,0 -97.12107160663867,32.73161776517308,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 3</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12127117232738,32.73217607553888,0 -97.12149446980691,32.73216231819978,0 -97.12149737613925,32.73178658330789,0 -97.1213023590586,32.73179769406962,0 -97.12127117232738,32.73217607553888,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 4</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12127004842799,32.73278963722635,0 -97.12147301996279,32.73279423643346,0 -97.12148713509103,32.73241032476819,0 -97.12128172300896,32.73241882221338,0 -97.12127004842799,32.73278963722635,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 5</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12096841726684,32.73309006223295,0 -97.12144693509184,32.7331006118452,0 -97.12143077055293,32.73294003916095,0 -97.12098084529559,32.73294011991582,0 -97.12096841726684,32.73309006223295,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 6</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12013088112029,32.73276229955008,0 -97.12032665351796,32.73275982317017,0 -97.12032896033506,32.73237733275813,0 -97.12012845482258,32.73236482931497,0 -97.12013088112029,32.73276229955008,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 7</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12015996067875,32.73308412502414,0 -97.12061210987088,32.73308432207826,0 -97.12061158787824,32.73292654003465,0 -97.12015533856186,32.73293042396772,0 -97.12015996067875,32.73308412502414,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow run 8</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.12021117233452,32.73359727581711,0 -97.12042794932867,32.73361134520449,0 -97.12044395678667,32.73318544813343,0 -97.12021991215933,32.73319326861736,0 -97.12021117233452,32.73359727581711,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Timber brook</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11913022180858,32.73272931064977,0 -97.11960519361098,32.73272740002052,0 -97.11962430603894,32.73256652203439,0 -97.11913159984007,32.73255443620469,0 -97.11913022180858,32.73272931064977,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Timber brook 1</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11954532582621,32.73317494910731,0 -97.11972197076808,32.73318646802743,0 -97.11975207321967,32.73280432660119,0 -97.11954836648518,32.73281115697986,0 -97.11954532582621,32.73317494910731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Timber brook 2</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11964484984658,32.73364366114915,0 -97.11985848306942,32.73364464977794,0 -97.1198727323238,32.73326502010665,0 -97.11967442104211,32.73326161147378,0 -97.11964484984658,32.73364366114915,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Timber brook 3</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11976067188174,32.73410417953902,0 -97.11999611213221,32.73410708599256,0 -97.11999737713967,32.73372733020389,0 -97.1198045899268,32.733728532077,0 -97.11976067188174,32.73410417953902,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Timber brook 4</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11920514141238,32.7339149542575,0 -97.11921936210396,32.73408856514128,0 -97.11967722085549,32.73410042295455,0 -97.11967170277873,32.73392405789096,0 -97.11920514141238,32.7339149542575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>University Village</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11884370627517,32.73066483262164,0 -97.12017931674589,32.73065287646104,0 -97.12021544923744,32.7299916964261,0 -97.11886143644524,32.72997371432624,0 -97.11884370627517,32.73066483262164,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Arbor Oaks</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1205774550275,32.72992343729894,0 -97.12050698276367,32.73063563032503,0 -97.12158663109297,32.73062677628195,0 -97.12160629064715,32.72993134891126,0 -97.1205774550275,32.72992343729894,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

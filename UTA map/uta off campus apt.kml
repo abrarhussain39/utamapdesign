@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>uta off campus apt.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin38">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin120">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>ff7fff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>C:/Users/sainish/OneDrive/Semester 4/ADV topics in database/Project/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>404 Border Apartment</name>
+			<open>1</open>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10304908276052,32.73355705681575,0 -97.10432249384725,32.73358884724504,0 -97.10432245071002,32.73342449989536,0 -97.10326155130723,32.7333956500893,0 -97.10325925432277,32.73317415907536,0 -97.10341613238026,32.73314476593042,0 -97.10342719224175,32.732984796027,0 -97.10305658080365,32.73297153101564,0 -97.10304908276052,32.73355705681575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Vintage Pads</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11507992494757,32.73495534015856,0 -97.1150892329275,32.73440339013433,0 -97.11476926512094,32.73440374204133,0 -97.11474993101635,32.73494606031209,0 -97.11507992494757,32.73495534015856,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Maple Square</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11001111279487,32.73355352642709,0 -97.11033130884144,32.73355616247363,0 -97.11032508007139,32.73296758708313,0 -97.11003035916072,32.73296983950228,0 -97.11001111279487,32.73355352642709,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Meadow creek apartment</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10583710836879,32.72918054451037,0 -97.10663880389365,32.72919703924765,0 -97.10636940706729,32.72846578090197,0 -97.1058321276567,32.72846604849135,0 -97.10583710836879,32.72918054451037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Four Oaks apartment</name>
+			<styleUrl>#msn_ylw-pushpin38</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.10947646142859,32.72582085288345,0 -97.1098473712354,32.7258268689151,0 -97.10986058174848,32.72521929743066,0 -97.10951663649867,32.72521958941606,0 -97.10947646142859,32.72582085288345,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Campus Edge</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.1192064443871,32.73443986685853,0 -97.11916599838541,32.73568308048019,0 -97.12040182188545,32.73567324423289,0 -97.12037801628355,32.73552273306375,0 -97.11941017118096,32.73549617818501,0 -97.11942031039813,32.73460397939221,0 -97.11997570770367,32.73460894398719,0 -97.11995125107197,32.73443894834389,0 -97.1192064443871,32.73443986685853,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Arlie Apartment</name>
+			<styleUrl>#msn_ylw-pushpin40</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11808237912783,32.73592101681091,0 -97.11806140965859,32.7359253327329,0 -97.11805236848613,32.73593928613183,0 -97.11804332867682,32.73595323754898,0 -97.11803429022685,32.73596718689042,0 -97.1180159870792,32.7359852388976,0 -97.11799988858807,32.73599734171791,0 -97.11799062363656,32.7360014465913,0 -97.11797319413712,32.73600668502527,0 -97.1179592886598,32.73601285528025,0 -97.11794074806748,32.73602108712417,0 -97.11792793436709,32.7360243040975,0 -97.11790915546897,32.7360227291477,0 -97.11789281487872,32.73602504662312,0 -97.11787405507886,32.73602347767305,0 -97.11786236483225,32.73602372703828,0 -97.11784605276087,32.73602604224472,0 -97.11782732364566,32.73602447443808,0 -97.11780508695033,32.73602198369653,0 -97.11778396362358,32.73601647839352,0 -97.11776988263721,32.73601281537252,0 -97.11774876425079,32.73600729796058,0 -97.11773468561775,32.73600362085271,0 -97.11772412696355,32.73600086322781,0 -97.11770652977953,32.7359962672778,0 -97.11768893229721,32.73599166811981,0 -97.11767133490412,32.73598706900641,0 -97.11765482832921,32.73597950063368,0 -97.11763941102463,32.73596896236738,0 -97.11762994174647,32.73596323279204,0 -97.11761561116964,32.73594972200024,0 -97.11760370915127,32.73594010008699,0 -97.11758937543954,32.73592658775151,0 -97.11757366723676,32.73590615476493,0 -97.11700124480487,32.73590577297162,0 -97.11698727692831,32.73606470222586,0 -97.11740810208049,32.73607419739975,0 -97.11736694060501,32.73689448172007,0 -97.11831468233484,32.73687950203161,0 -97.11832923286266,32.73594598299578,0 -97.11808237912783,32.73592101681091,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>South campus apartment</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-97.11395968722447,32.72437422216041,0 -97.1130900937217,32.72437781550831,0 -97.11308356590432,32.72467264124077,0 -97.11397192944226,32.72467854619963,0 -97.11395968722447,32.72437422216041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
